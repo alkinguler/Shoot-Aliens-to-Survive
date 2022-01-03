@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2e2e5f520fd03f14eb6d48695329d753
+labels:
+- alien
+- enemy
+- animated
+- sci-fi
+- space
+- pack
+- shooter
+- creature
+- mob
+- zerg
+- fantasy
+- action
+- RPG
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
